@@ -15,7 +15,9 @@
     "react-modal": "^3.12.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-toastify": "^8.1.0",
     "styled-components": "^5.2.1",
+    "typescript": "^5.0.2",
     "yup": "^0.32.9"
   },
   "scripts": {
@@ -44,6 +46,11 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^18.0.29",
+    "@types/react-dom": "^18.0.11",
+    "@types/react-modal": "^3.13.1",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/styled-components": "^5.1.26",
     "json-server": "^0.16.3"
   }
 }
